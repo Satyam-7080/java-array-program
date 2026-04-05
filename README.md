@@ -1,2 +1,2 @@
 # java-array-program
-Basic array sum and average program
+Programs of Array
